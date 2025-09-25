@@ -18,4 +18,4 @@ Target Activity
 Upstream (Predecessor)
 Downstream (Successor)
 
-![Impact Analysis Demo]([https://yourdomain.com/path/to/demo.gif](https://github.com/Alexanderh1988/Primavera-P6-Impact-Analysis-Tool--Excel---VBA-/blob/main/Ejemplo%20impactos.gif))
+![Impact Analysis Demo](https://github.com/Alexanderh1988/Primavera-P6-Impact-Analysis-Tool--Excel---VBA-/blob/main/Ejemplo%20impactos.gif))

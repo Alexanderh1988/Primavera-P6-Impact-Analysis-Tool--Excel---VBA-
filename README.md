@@ -1,4 +1,4 @@
-#Primavera P6 Impact Analysis Tool (Excel + VBA)
+**Primavera P6 Impact Analysis Tool (Excel + VBA)**
 
 A lightweight VBA-based tool to perform impact analysis on Oracle Primavera P6 schedules using Activity IDs. This solution is designed for planners, schedulers, and project managers who need to quickly assess the upstream and downstream effects of changes (e.g., delays, scope modifications) to a specific activity—without requiring direct database access or P6 SDK.
 
@@ -19,3 +19,5 @@ Upstream (Predecessor)
 Downstream (Successor)
 
 ![Impact Analysis Demo](https://github.com/Alexanderh1988/Primavera-P6-Impact-Analysis-Tool--Excel---VBA-/blob/main/Ejemplo%20impactos.gif))
+
+ **"This project is discontinued and no longer supported by HSTECH Dev** 
